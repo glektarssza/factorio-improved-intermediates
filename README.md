@@ -1,6 +1,6 @@
 # Factorio - Improved Intermediates #
 
-**Description coming soon!**
+A mod for adding various recipe interactions Alaine thinks should be in the game.
 
 <!-- omit in toc -->
 ## Table of Contents ##
