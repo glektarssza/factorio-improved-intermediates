@@ -1,0 +1,11 @@
+{
+  "name": "improved-intermediates",
+  "version": "0.0.1",
+  "title": "Improved Intermediates",
+  "author": "AlaineMoivurg, glektarssza",
+  "homepage": "https://github.com/glektarssza/factorio-improved-intermediates",
+  "description": "A mod adding more ways to craft intermediate items.",
+  "factorio_version": "2.1",
+  "dependencies": ["base", "space-age"],
+  "expansion_required": true
+}
